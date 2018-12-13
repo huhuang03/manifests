@@ -1,0 +1,11 @@
+<?xml version ="1.0" encoding="UTF-8"?>
+<manifest>
+  <remove name="origin"
+          fetch="https://github.com/huhuang03"/>
+
+  <default revision="master"
+           remote="origin"/>
+
+  <project path=".emacs.d" name=".emacs.d"/>
+  
+</manifest>
